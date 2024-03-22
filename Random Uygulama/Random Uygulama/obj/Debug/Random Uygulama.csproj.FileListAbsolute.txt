@@ -1,0 +1,32 @@
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\bin\Debug\Random Uygulama.exe.config
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\bin\Debug\Random Uygulama.exe
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\bin\Debug\Random Uygulama.pdb
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\obj\Debug\Random_Uygulama.Form1.resources
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\obj\Debug\Random_Uygulama.Properties.Resources.resources
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.exe
+C:\Users\user\source\repos\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.pdb
+E:\Algoritma\Random Uygulama\Random Uygulama\bin\Debug\Random Uygulama.exe.config
+E:\Algoritma\Random Uygulama\Random Uygulama\bin\Debug\Random Uygulama.exe
+E:\Algoritma\Random Uygulama\Random Uygulama\bin\Debug\Random Uygulama.pdb
+E:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.AssemblyReference.cache
+E:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.SuggestedBindingRedirects.cache
+E:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random_Uygulama.Form1.resources
+E:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random_Uygulama.Properties.Resources.resources
+E:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.GenerateResource.cache
+E:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.CoreCompileInputs.cache
+E:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.exe
+E:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.pdb
+F:\Algoritma\Random Uygulama\Random Uygulama\bin\Debug\Random Uygulama.exe.config
+F:\Algoritma\Random Uygulama\Random Uygulama\bin\Debug\Random Uygulama.exe
+F:\Algoritma\Random Uygulama\Random Uygulama\bin\Debug\Random Uygulama.pdb
+F:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.AssemblyReference.cache
+F:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random_Uygulama.Form1.resources
+F:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random_Uygulama.Properties.Resources.resources
+F:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.GenerateResource.cache
+F:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.csproj.CoreCompileInputs.cache
+F:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.exe
+F:\Algoritma\Random Uygulama\Random Uygulama\obj\Debug\Random Uygulama.pdb
